@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LibraryManagementSystem%20/static/css/main.d0aa7534.css",
+    "main.js": "/LibraryManagementSystem%20/static/js/main.1c96ab99.js",
+    "static/js/787.eda9c77b.chunk.js": "/LibraryManagementSystem%20/static/js/787.eda9c77b.chunk.js",
+    "static/media/loader.svg": "/LibraryManagementSystem%20/static/media/loader.28d0df4053fc97602ce8067d56c2dec8.svg",
+    "static/media/google-logo.svg": "/LibraryManagementSystem%20/static/media/google-logo.9a7800d06783d80a1c12249a8ca58e9d.svg",
+    "static/media/open-book.svg": "/LibraryManagementSystem%20/static/media/open-book.d45bd7d0304acbd2a3a5.svg",
+    "index.html": "/LibraryManagementSystem%20/index.html",
+    "static/media/search.svg": "/LibraryManagementSystem%20/static/media/search.cbbf4371a7cb1fb069317c1faa096dca.svg",
+    "static/media/x_circle.svg": "/LibraryManagementSystem%20/static/media/x_circle.fd1ddfc0acbb92949f11.svg",
+    "static/media/plus.svg": "/LibraryManagementSystem%20/static/media/plus.940fb4a36291e183573e.svg",
+    "static/media/check.svg": "/LibraryManagementSystem%20/static/media/check.af5607f80bd91897ede0.svg",
+    "main.d0aa7534.css.map": "/LibraryManagementSystem%20/static/css/main.d0aa7534.css.map",
+    "main.1c96ab99.js.map": "/LibraryManagementSystem%20/static/js/main.1c96ab99.js.map",
+    "787.eda9c77b.chunk.js.map": "/LibraryManagementSystem%20/static/js/787.eda9c77b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0aa7534.css",
+    "static/js/main.1c96ab99.js"
+  ]
+}
